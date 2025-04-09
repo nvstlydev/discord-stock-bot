@@ -1,6 +1,6 @@
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="33%" src="https://github.com/nvstly/.github/raw/master/assets/images/nvstly_banner.png" alt="NVSTly Banner">
+        <img width="33%" src="assets/images/nvstly_banner.png" alt="NVSTly Banner">
     </a>
 </p>
 
@@ -61,6 +61,34 @@ All trading recaps, stats, and charts are generated as sleek, shareable imagesâ€
 
 3. **Link Your NVSTly Account** *(Optional but Recommended)*  
    Link your Discord account to the NVSTly web/mobile app to unlock personal stats and recaps based on your trading activity.
+
+---
+
+## ðŸ“· Previews
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="35%" src="assets/images/help.png" alt="Stocks Section In Help Command">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="35%" src="assets/images/chart.png" alt="Fetch Financial Charts">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="35%" src="assets/images/stock.png" alt="Fetch Financial Data">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="assets/images/trades.png" alt="Track Trades">
+    </a>
+</p>
 
 ---
 
