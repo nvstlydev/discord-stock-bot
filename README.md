@@ -99,7 +99,7 @@ Support is available through the official [NVSTly Discord server](https://nvstly
 
 ## 💡 About Trade Hub, LLC
 
-This bot is developed and maintained by [Trade Hub, LLC](https://nvstly.com), creators of the NVSTly platform.
+This bot is developed and maintained by [Trade Hub, LLC](https://tradehub.llc), creators of the NVSTly platform.
 
 **Socials:**  
 [Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [GitHub](https://nvstly.com/go/github) | [Product Hunt](https://nvstly.com/go/producthunt) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/go/hive) | [Medium](https://nvstly.com/go/medium) | [Substack](https://nvstly.com/go/substack)
