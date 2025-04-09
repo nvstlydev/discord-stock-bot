@@ -86,7 +86,7 @@ All trading recaps, stats, and charts are generated as sleek, shareable imagesâ€
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="assets/images/trades.png" alt="Track Trades">
+        <img width="70%" src="assets/images/trades.png" alt="Track Trades">
     </a>
 </p>
 
